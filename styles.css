@@ -1,0 +1,105 @@
+h1
+{
+margin-top:60px;
+font-size: 50px;
+color:black;
+font-family: 'Ranchers', cursive;
+}
+
+p
+{
+  font-size: 30px;
+color:black;
+font-family: 'Ranchers', cursive;
+  }
+hr
+{
+  color:black;
+  border-style: dotted none none none;
+  border-width:thick;
+  width:30px
+}
+.shine
+{
+  background-color:white;
+
+}
+
+body
+{
+  background-color: white;
+}
+.zoom
+{
+font-size: 30px;
+color:white;
+font-family: 'Ranchers', cursive;
+background-color:black;
+text-align: center;
+display: block;
+margin-top:20%;
+}
+.hobbies
+{
+  font-size:50px
+}
+.middle-con
+{
+  background-color:white;
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+}
+.bottom-con
+{
+  background-color: #355c7d;
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+}
+tbody
+{
+font-family: 'Ranchers', cursive;
+color:black;
+}
+.check
+{
+color: black;
+font-family: 'Ranchers', cursive;
+font-size: 20px;
+}
+.click
+{
+color:black;
+font-family: 'Ranchers', cursive;
+font-size: 20px;
+}
+.twitter
+{
+  color:black;
+  font-size: 20px;
+  font-family: 'Ranchers', cursive;
+}
+a :hover
+{
+  color:#810000;
+}
+.drop
+{
+  margin:auto;
+  margin-top: 50px;
+  margin-right: 30px;
+  margin-bottom: 30px;
+  margin-left: 30px;
+  resize: horizontal;
+}
+.fixe
+{
+  margin:auto;
+}
+
+p
+{
+width: 30%;
+margin: 50px auto;
+}
